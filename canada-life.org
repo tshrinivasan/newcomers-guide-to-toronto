@@ -1,4 +1,4 @@
-#+STARTUP: indent showeverything logdrawer
+#+STARTUP: showeverything logdrawer
 #+TAGS: noexport sample
 #+OPTIONS: toc:nil
 #+TODO: TODO(t) DRAFT(f@/!) IN-THE-BOOK(i!) | DONE(d!) CANCELED(c)
@@ -134,6 +134,30 @@ Pack the following items in your backpack and bring it on board:
 - Mobile phone
 
 
+** Food items
+
+- Noodles
+- Masala powders
+- Chilli Powders
+- Rice
+- Dhall
+- few plates
+- spoons
+- coffee/tea powders
+
+We have all many Indian stores like Patel Brothers, Panchavati, Subzi Mandi etc.
+Most of the vegetables, basic cooking items will be available in Canadian Food stores 
+like Food Basics, FreshCo, No Frills, Costco etc.
+
+Bring basic food items so that you can manage for few days, until you go for your first shopping.
+
+All houses here will come with Refridgerator, Electric/Gas Stove, Oven.
+You can buy small microwave oven, plates, vessels later
+
+If possible, bring Mixie, small grinder if you are coming as a family.
+Bring with required power convertors.
+
+We can buy them in indian stores too.
 
 * house hunt
 ** websites
