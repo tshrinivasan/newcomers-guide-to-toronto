@@ -286,6 +286,25 @@ https://onroads.wordpress.com/2023/11/17/what-will-happen-after-you-call-911-on-
 ** RBC
 ** CIBC
 ** scotia
+** BMO
+
+
+Banking here is not free.
+There will be charges minimum 4$ to 10$ based on the plan we choose.
+
+There is no UPI here. But paying via credit card or mobile wallet is easy.
+
+Many banks will give new comer's offer.
+
+There are two types of bank accounts.
+
+
+
+
+
+
+
+
 
 * Coffee Shops
 ** Tim Hortin
@@ -351,3 +370,6 @@ ox-leanpub
 https://github.com/juanre/ox-leanpub
 
 
+To export docx to markdown with extracting media
+
+pandoc --extract-media . Canada\ PR.docx -o Canada-PR.md

@@ -1,0 +1,6 @@
+
+* Explore temp/Canada-PR.md and add it to the book content
+* Check fo TOPICS to add
+* Call for more contributors to write and review
+* Convert to markdown or reStructuredText (RST)
+* Export to epub, mobi, PDF and Static HTML versions
