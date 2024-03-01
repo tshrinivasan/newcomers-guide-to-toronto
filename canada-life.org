@@ -1,0 +1,330 @@
+#+STARTUP: indent showeverything logdrawer
+#+TAGS: noexport sample
+#+OPTIONS: toc:nil
+#+TODO: TODO(t) DRAFT(f@/!) IN-THE-BOOK(i!) | DONE(d!) CANCELED(c)
+
+* notes :noexport:
+
+https://medium.com/@lakshminp/publishing-a-book-using-org-mode-9e817a56d144
+
+Export like twitter bootstrap themed HTML
+https://github.com/marsmining/ox-twbs
+
+
+ox-leanpub
+https://github.com/juanre/ox-leanpub
+
+
+
+* arrival
+** visa types
+*** closed work permit
+*** open work permit
+**  PR
+
+* travel checklist
+
+** Before you leave...
+
+Check your passport expiry dates
+Buy travel insurance (cancellation, luggage, medical, civil liability)
+Ask someone to visit your house once a week (to water the plants, etc.)
+Make arrangements for your pets
+Have your mail held
+Empty the fridge
+Unplug electrical appliances
+Lock the windows and doors
+Shut the water main
+Turn down the heat
+Make a photocopy of official documents (passports, driver's license, etc.)
+Fully charge the batteries of your camera, video camera, phone, tablet etc
+
+** Documents
+
+Passport
+Electronic Travel Authorization (eTA)
+Proof of insurance (medical + luggage + civil liability)
+Valid driver's license and international license
+Car Driving License Extract ( Get from local RTO. will help to get driving licence in canada)
+Credit/debit card
+Cash (Canadian dollars)
+Exchange vouchers and booking reservations (where applicable)
+Plane tickets (round-trip)
+Phone numbers and addresses of friends/loved ones (for postcards)
+Health booklet (or vaccination booklet)
+Person to contact in case of emergency (contact info)
+Travel guide / Book to read
+Pens
+
+** Toiletries
+
+Soap and shampoo
+Toothbrush
+Toothpaste
+Deodorant / Antiperspirant
+Tampons / Sanitary napkins
+Razor + shaving cream (or electric razor)
+Hairbrush / Comb
+Nail file / Nail clipper
+Moisturizing body lotion
+Makeup kit
+Hair elastics / barrettes
+Tweezers
+Hand mirror
+Glasses / Contact lenses
+Facial tissue
+Sunscreen
+Insect repellent (DEET-based)
+Aspirin (or other painkillers)
+Contraceptive pills / Condoms
+Personal medicines
+Lip balm
+Hand sanitizer
+
+ 
+** Clothing
+
+Underwear
+Socks
+Cool clothing (shorts, t-shirts, tank tops, dresses, etc.)
+Warm clothing (jeans, pants, sweatshirts, etc.)
+Shoes / Sandals
+Sweater (polar fleece or wool)
+Raincoat / Windcheater
+Sun hat / Tuque
+Scarf
+Pyjamas
+Swimsuit / Towels
+
+
+ 
+** Accessories
+
+Suitcase with wheels
+Backpack 
+Converter / Adapter (electric)
+Camera + charger
+Memory card
+Mobile phone + charger
+Ziploc bags (to protect electronics)
+Hairdryer
+Travel pillow and ear plugs (airplane)
+Diaper bag for infants (diapers, changing mat, wipes, cream, bottles, toys, etc.)
+
+ 
+** First aid kit
+
+Moleskin for blisters
+Disinfectant
+Adhesive bandages
+Thermometer
+Motion sickness medication
+Anti-Diarrheal medication
+Aloe gel for sunburn
+
+ 
+** In your carry-on
+
+Pack the following items in your backpack and bring it on board:
+
+Passports
+Electronic Travel Authorization
+Wallet (driver's license, debit/credit cards, Canadian dollars, etc.)
+Proof of travel insurance
+Exchange vouchers (where applicable)
+Plane ticket
+Travel guide / Book to read
+Pen
+Snacks / Water bottle
+Toothbrush / Toothpaste
+Deodorant
+Tampons / Sanitary napkins
+Facial tissues
+Aspirin (or other pain medication)
+Personal medications
+Sweater (polar fleece or wool)
+Camera / Video camera
+Mobile phone
+
+
+
+* house hunt
+** websites
+airbnb
+facebook market place
+rentals.ca
+kijiji
+
+** house types
+*** basement
+*** apartment
+*** condo
+*** seperate house
+
+** one year agreement
+
+** fines/charges
+
+* connectivity
+** phone
+fido
+
+
+** wifi
+rogers
+virgin
+fido
+
+** charges
+BYOD
+plans with devices
+
+
+
+** black friday offers
+
+
+* climate
+
+** mobile apps to check weather
+** summer
+*** places to go
+*** beaches
+*** health issues
+*** medicines required
+*** garden - cleaning gross
+
+** fall
+
+*** places to see
+
+
+** winter
+*** winter accessories
+*** medicine
+*** clearing snow
+
+** spring
+
+* travel
+** presto card
+*** buy
+*** recharge
+
+** bus
+** go train
+** different charges for different areas
+** car
+*** getting driving license
+*** winter tyre
+*** car wash
+*** maintanence
+
+*** car seat
+
+Car seat is nessary for the kids below 4.
+We have to put them on car seat and then add the seat belt.
+
+* school
+** getting admission
+** nearby school
+** bus
+
+** language schools
+
+** Early ON for toddlers
+
+
+
+
+* law
+**  effect of 911
+https://onroads.wordpress.com/2023/11/17/what-will-happen-after-you-call-911-on-any-domestic-violense/
+
+
+* social groups
+
+** fb for tamil
+
+** whatsapp group links
+
+** other websites
+
+* Communities
+
+** HeartComonos
+** Cooksville Hub
+** Cooksville BIA
+
+* Healthcare 
+
+** getting OHIP card
+** family doctor
+** kids hospital SIMkids
+** emergency
+** emergency fees
+** Dental fees
+
+
+* Service Ontorio
+** health card
+** photo id
+
+* banks
+** TD
+** RBC
+** CIBC
+** scotia
+
+* Coffee Shops
+** Tim Hortin
+Double Double
+French Vanila
+
+* Indian Grocery Shops
+
+* Indian Restaurents
+Saravana bhavan
+Anjappar
+
+* Tamil shops at Scarborough
+Quality Bakery
+Tamil mall
+
+
+* Places to visit
+** Toronto Downtown
+** Niagara
+** science center
+** zoo
+** lion safari
+** fish center
+** summer exhibition
+
+
+* Library
+** books
+** games
+** events
+
+* celebrations 
+
+** christmas
+** new year
+** canada day
+** halloween
+** diwali
+** pongal
+
+
+* temples
+** ayappan temple at scarbourough
+** hindu heritage center
+** balaji/siva temples
+** saibaba temple
+* Scams
+
+Like any other country, there are many Scams here.
+From getting visa
+
+
