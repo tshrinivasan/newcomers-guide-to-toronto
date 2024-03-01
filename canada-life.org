@@ -152,7 +152,7 @@ like Food Basics, FreshCo, No Frills, Costco etc.
 Bring basic food items so that you can manage for few days, until you go for your first shopping.
 
 All houses here will come with Refridgerator, Electric/Gas Stove, Oven.
-You can buy small microwave oven, plates, vessels later
+You can buy small microwave oven, plates, vessels later.
 
 If possible, bring Mixie, small grinder if you are coming as a family.
 Bring with required power convertors.
@@ -349,6 +349,5 @@ https://github.com/marsmining/ox-twbs
 
 ox-leanpub
 https://github.com/juanre/ox-leanpub
-
 
 
